@@ -3,7 +3,7 @@ import requests
 # get readme.txt file
 r = requests.get("https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt")
 readme = r.text
-# print(readme)
+
 
 # get inventory and stations files
 r = requests.get("https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/ghcnd-inventory.txt")
