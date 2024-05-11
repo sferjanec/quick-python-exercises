@@ -20,7 +20,8 @@
 			"extensions": [
 				"ms-toolsai.jupyter",
 				"ckolkman.vscode-postgres",
-				"mhutchie.git-graph"
+				"mhutchie.git-graph",
+				"teabyii.ayu"
 			]
 		}
 	},
